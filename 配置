@@ -1,3 +1,3 @@
 1.腾讯QQ邮箱IMAP/SMTP服务：设置-账户-POP3/IMAP/SMTP/Exchange/CardDAV/CalDAV服务
 2.php.ini中的ssl服务：extension=php_openssl.dll
-3.Warning: array_key_exists() expects parameter 2 to be array, boolean given in ...：注释class.smtp.php中168的echo $str;
+3.Warning: array_key_exists() expects parameter 2 to be array, boolean given in ...：注释class.smtp.php中168的echo $str;或者"<!--".$str."-->";
